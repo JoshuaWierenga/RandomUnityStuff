@@ -20,7 +20,7 @@ MonoBehaviour:
   m_ShowMode: 4
   m_Title: 
   m_RootView: {fileID: 2}
-  m_MinSize: {x: 950, y: 521}
+  m_MinSize: {x: 950, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &2
 MonoBehaviour:
@@ -87,10 +87,10 @@ MonoBehaviour:
     y: 30
     width: 1920
     height: 947
-  m_MinSize: {x: 711, y: 471}
-  m_MaxSize: {x: 18006, y: 14021}
+  m_MinSize: {x: 711, y: 492}
+  m_MaxSize: {x: 18006, y: 14042}
   vertical: 0
-  controlID: 21
+  controlID: 42
 --- !u!114 &5
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -157,8 +157,8 @@ MonoBehaviour:
     y: 0
     width: 327
     height: 947
-  m_MinSize: {x: 234, y: 471}
-  m_MaxSize: {x: 10004, y: 14021}
+  m_MinSize: {x: 234, y: 492}
+  m_MaxSize: {x: 10004, y: 14042}
   vertical: 1
   controlID: 43
 --- !u!114 &8
@@ -179,8 +179,8 @@ MonoBehaviour:
     y: 0
     width: 466
     height: 947
-  m_MinSize: {x: 275, y: 50}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 277, y: 71}
+  m_MaxSize: {x: 4002, y: 4021}
   m_ActualView: {fileID: 12}
   m_Panes:
   - {fileID: 12}
@@ -205,8 +205,8 @@ MonoBehaviour:
     y: 0
     width: 327
     height: 451
-  m_MinSize: {x: 200, y: 200}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 204, y: 221}
+  m_MaxSize: {x: 4004, y: 4021}
   m_ActualView: {fileID: 16}
   m_Panes:
   - {fileID: 16}
@@ -294,7 +294,7 @@ MonoBehaviour:
     y: 92
     width: 464
     height: 926
-  m_ScrollPosition: {x: 0, y: 387.95508}
+  m_ScrollPosition: {x: 0, y: 0}
   m_InspectorMode: 0
   m_PreviewResizer:
     m_CachedPref: 283
@@ -338,19 +338,19 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 0
     m_Folders:
-    - Assets/Prefabs/VFX/Explosions
+    - Assets/Audio
   m_ViewMode: 0
   m_StartGridSize: 46
-  m_LastFolders:
-  - Assets/Scenes
+  m_LastFolders: []
   m_LastFoldersGridSize: 46
-  m_LastProjectPath: E:\Projects\Making Games\Unity\Tutorials\Space Shooter
+  m_LastProjectPath: E:\Projects\Making Games\Unity\RandomUnityStuff\Tutorials\Space
+    Shooter
   m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: f22a0000
     m_LastClickedID: 10994
-    m_ExpandedIDs: 00000000d0240000
+    m_ExpandedIDs: 00000000242500006e25000098250000e2250000fe250000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -378,7 +378,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000d024000028250000542500009e250000ba250000
+    m_ExpandedIDs: 00000000242500006e25000056260000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -568,7 +568,7 @@ MonoBehaviour:
   m_Rotation:
     m_Target: {x: 0.44598114, y: 0.3319141, z: -0.18253924, w: 0.8109336}
     speed: 2
-    m_Value: {x: 0.44598114, y: 0.3319141, z: -0.18253924, w: 0.8109336}
+    m_Value: {x: -0.44598117, y: -0.33191413, z: 0.18253925, w: -0.81093365}
   m_Size:
     m_Target: 5.160486
     speed: 2
@@ -611,23 +611,23 @@ MonoBehaviour:
     height: 430
   m_TreeViewState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 02250000
-    m_LastClickedID: 0
-    m_ExpandedIDs: 24eeffff9afaffff00000000
+    m_SelectedIDs: 1e270000
+    m_LastClickedID: 10014
+    m_ExpandedIDs: d4fbffff00000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
-      m_Name: 
-      m_OriginalName: 
+      m_Name: explosion_asteroid (1)
+      m_OriginalName: explosion_asteroid (1)
       m_EditFieldRect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 0
         height: 0
-      m_UserData: 0
+      m_UserData: -1500
       m_IsWaitingForDelay: 0
       m_IsRenaming: 0
-      m_OriginalEventType: 11
+      m_OriginalEventType: 0
       m_IsRenamingFilename: 0
       m_ClientGUIView: {fileID: 9}
     m_SearchString: 
