@@ -87,10 +87,10 @@ MonoBehaviour:
     y: 30
     width: 1920
     height: 947
-  m_MinSize: {x: 711, y: 492}
-  m_MaxSize: {x: 18006, y: 14042}
+  m_MinSize: {x: 713, y: 492}
+  m_MaxSize: {x: 18008, y: 14042}
   vertical: 0
-  controlID: 42
+  controlID: 9
 --- !u!114 &5
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -129,8 +129,8 @@ MonoBehaviour:
     y: 0
     width: 1127
     height: 947
-  m_MinSize: {x: 200, y: 200}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 202, y: 221}
+  m_MaxSize: {x: 4002, y: 4021}
   m_ActualView: {fileID: 14}
   m_Panes:
   - {fileID: 15}
@@ -338,7 +338,7 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 0
     m_Folders:
-    - Assets/Audio
+    - Assets/Prefabs
   m_ViewMode: 0
   m_StartGridSize: 46
   m_LastFolders: []
@@ -350,7 +350,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: f22a0000
     m_LastClickedID: 10994
-    m_ExpandedIDs: 00000000242500006e25000098250000e2250000fe250000
+    m_ExpandedIDs: 00000000d82400005c250000a6250000c2250000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -378,7 +378,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000242500006e25000056260000
+    m_ExpandedIDs: 00000000d82400005c250000a6250000c2250000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -536,14 +536,14 @@ MonoBehaviour:
     width: 1125
     height: 926
   m_SceneLighting: 1
-  lastFramingTime: 506.21899036472416
+  lastFramingTime: 215.65633252702605
   m_2DMode: 0
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 0.80165184, y: -1.5129223, z: 9.214529}
+    m_Target: {x: 4.03085, y: -0.47291517, z: -2.3876345}
     speed: 2
-    m_Value: {x: 0.80165184, y: -1.5129223, z: 9.214529}
+    m_Value: {x: 4.03085, y: -0.47291517, z: -2.3876345}
   m_RenderMode: 0
   m_ValidateTrueMetals: 0
   m_SceneViewState:
@@ -566,13 +566,13 @@ MonoBehaviour:
       speed: 2
       m_Value: 0
   m_Rotation:
-    m_Target: {x: 0.44598114, y: 0.3319141, z: -0.18253924, w: 0.8109336}
+    m_Target: {x: -0.56610596, y: 0.008658302, z: -0.0059466665, w: -0.8242656}
     speed: 2
-    m_Value: {x: -0.44598117, y: -0.33191413, z: 0.18253925, w: -0.81093365}
+    m_Value: {x: -0.5661059, y: 0.008658302, z: -0.0059466665, w: -0.8242656}
   m_Size:
-    m_Target: 5.160486
+    m_Target: 7.6295733
     speed: 2
-    m_Value: 5.160486
+    m_Value: 7.6295733
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -611,23 +611,23 @@ MonoBehaviour:
     height: 430
   m_TreeViewState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 1e270000
-    m_LastClickedID: 10014
-    m_ExpandedIDs: d4fbffff00000000
+    m_SelectedIDs: 
+    m_LastClickedID: 0
+    m_ExpandedIDs: 8cdeffff4efaffff00fbffffe0fbffff00000000c4260000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
-      m_Name: explosion_asteroid (1)
-      m_OriginalName: explosion_asteroid (1)
+      m_Name: 
+      m_OriginalName: 
       m_EditFieldRect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 0
         height: 0
-      m_UserData: -1500
+      m_UserData: 0
       m_IsWaitingForDelay: 0
       m_IsRenaming: 0
-      m_OriginalEventType: 0
+      m_OriginalEventType: 11
       m_IsRenamingFilename: 0
       m_ClientGUIView: {fileID: 9}
     m_SearchString: 
